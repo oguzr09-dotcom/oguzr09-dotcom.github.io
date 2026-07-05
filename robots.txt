@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramorax-designs.pages.dev/sitemap.xml
